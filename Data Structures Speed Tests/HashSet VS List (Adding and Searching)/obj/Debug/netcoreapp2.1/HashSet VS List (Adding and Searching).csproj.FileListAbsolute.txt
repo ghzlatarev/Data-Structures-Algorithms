@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\bin\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).deps.json
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\bin\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).runtimeconfig.json
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\bin\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).runtimeconfig.dev.json
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\bin\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).dll
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\bin\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).pdb
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).csprojAssemblyReference.cache
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).AssemblyInfoInputs.cache
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).AssemblyInfo.cs
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).dll
+C:\Users\1\source\repos\DSA\Data Structures Speed Tests\HashSet VS List (Adding and Searching)\obj\Debug\netcoreapp2.1\HashSet VS List (Adding and Searching).pdb
